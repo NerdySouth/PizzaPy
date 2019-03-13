@@ -14,3 +14,17 @@ A script to automatically select a pizza from dominos for delivery and bring you
 <br>
 
 <p> I chose not to allow the script to check out completely for a couple of reasons. First being i have no security experience, and do not want to write code that deals with that sensitive information yet. Second, i couldnt get the selenium package to easily interact with the payment fields on the site and am leaving it for later personal updating. Feel free to add this funtionality yourself if you want, but i am not responsible for your personal payment information.</p>
+
+<br>
+<h1>Instructions</h1>
+<ol>
+  <li>Download proper chrome driver from the link</li>
+  <li>Download the pizza.py script</li>
+  <li>Install Selenium through pip</li>
+  <li>Place chrome driver in same directory as the script</li>
+  <li>Run script with "python3 pizza.py"</li>
+</ol>
+
+
+<h3>Contact info</h3>
+<p> If you want to contact me about this project to commit changes or anything, or just to reach out my email is tnollman@stanford.edu</p>
